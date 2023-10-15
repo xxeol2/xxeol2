@@ -11,12 +11,12 @@
 [좋은 경험 훔쳐먹기](https://xxeol.tistory.com/)
 
 ### 🚀 오픈소스 컨트리뷰트
-#### 🐱 apache/tomcat
+**🐱 apache/tomcat**
 
-[[PR#648](https://github.com/apache/tomcat/pull/648)] Refactor `Request.getSession()` to invoke `Request.getSession(true)` internally to eliminate code redundancy.
+- [[PR#648](https://github.com/apache/tomcat/pull/648)] Refactor `Request.getSession()` to invoke `Request.getSession(true)` internally to eliminate code redundancy.
 
-[[PR#649](https://github.com/apache/tomcat/pull/649) / [PR#654](https://github.com/apache/tomcat/pull/654) /  [PR#657](https://github.com/apache/tomcat/pull/657)]
+- [[PR#649](https://github.com/apache/tomcat/pull/649) / [PR#654](https://github.com/apache/tomcat/pull/654) /  [PR#657](https://github.com/apache/tomcat/pull/657)]
 Eliminating duplicate execution of checkFacade logic in ResponseFacade.
 
-**📝 관련 경험 포스트:** [[오픈소스] 톰캣에 컨트리뷰트하기](https://xxeol.tistory.com/46)
+- **📝 관련 경험 포스트:** [[오픈소스] 톰캣에 컨트리뷰트하기](https://xxeol.tistory.com/46)
 
